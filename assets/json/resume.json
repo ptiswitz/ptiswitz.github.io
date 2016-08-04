@@ -1,0 +1,97 @@
+{
+    "firstname": "Julien",
+    "lastname": "Léger",
+    "birthdate": 497201460000,
+    "gender": "male",
+    "mail": "leger.julien@gmail.com",
+    "phone": "+3363411297",
+    "location": "Argenteuil, France",
+    "expertise": {
+        "proeficient": [
+            "javascript",
+            "html",
+            "css",
+            "Angular JS",
+            "LESS",
+            "git"
+        ],
+        "knowledgeable": [
+            "Node JS",
+            "Express",
+            "Redis",
+            "PHP",
+            "Wordpress",
+            "ES 6",
+            "Web Component"
+        ]
+    },
+    "education": [{
+        "date": 2007,
+        "degree": "Licence pro",
+        "speciality": "Communiciation Informatique et multimedia"
+    }, {
+        "date": 2006,
+        "degree": "DUT",
+        "speciality": "Informatique option génie logiciel"
+    }, {
+        "date": 2003,
+        "degree": "BAC",
+        "speciality": "Compatabilité Gestion"
+    }],
+    "experience": [{
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Développeur javascript",
+        "location": "Paris, France",
+        "company": "Société Générale - Private Banking"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Scrum Master",
+        "location": "Paris, France",
+        "company": "Accor Hotels"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Ingénieur études et développement",
+        "location": "Neuilly sur Seine, France",
+        "company": "SFEIR"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Développeur frontend/backend",
+        "location": "Paris, France",
+        "company": "France Télévision"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Développeur javascript",
+        "location": "Paris, France",
+        "company": "Bouygues Telecom"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Développeur javascript",
+        "location": "Velizy Villacoublay, France",
+        "company": "Invities"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Ingénieur études et développement",
+        "location": "Boulogne Billancourt, France",
+        "company": "Degetel"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Développeur frontend",
+        "location": "Montreuil, France",
+        "company": "AdFab"
+    }, {
+        "startDate": 0,
+        "endDate": 0,
+        "job": "Développeur PHP",
+        "location": "Montreuil, France",
+        "company": "Orange Business Services"
+    }],
+    "interests": ["Course à pied", "Cyclisme", "Fitness", "Yoga", "Voyages", "Cinema", "Lecture"]
+}
